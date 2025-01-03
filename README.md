@@ -32,7 +32,7 @@ A simple Product Management System (ASP.NET Core API). This application allows u
 This folder contains GIFs demonstrating the functionality of the Product Management System.
 
 ### Add Category
-![Add Category](https://github.com/Moh-Gomma/Product-Managment/blob/main/ProductFF/Gif/Addcat.gif)
+![Add Category](https://github.com/Moh-Gomma/Product-Managment/blob/main/ProductFF/Gif/AddCat.gif)
 
 ### Add Product
 ![Add Product](https://github.com/Moh-Gomma/Product-Managment/blob/main/ProductFF/Gif/addpro.gif)
